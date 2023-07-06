@@ -21,47 +21,48 @@
   
     
 
-    "Image_cpaLink" : "https://iili.io/HiJCjwl.png",
-    "LinkCpa": "https://www.google.com/",
+    "Image_cpaLink" : "",
+    "LinkCpa": "",
+    
 
-    "ImageUrl_banner": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner": "https://www.google.com/",
-    "ImageUrl_banner1": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner1": "https://www.google.com/",
-    "ImageUrl_banner2": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner2": "https://www.google.com/",
+    "ImageUrl_banner": "",
+    "LinkCpa_banner": "",
+    "ImageUrl_banner1": "",
+    "LinkCpa_banner1": "",
+    "ImageUrl_banner2": "",
+    "LinkCpa_banner2": "",
 
-    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
-    "link_exit": "https://www.google.com/",
+    "Image_exit": "",
+    "link_exit": "",
 
     "privacy" : "https://policies.google.com/privacy?hl=en-US",
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome ESKIMO APP",
-    "Text_tips2": "Welcome nATURE ESKIMO",
-    "Text_tips3": "Welcome NATURE BLANC",
-    "Text_tips4": "blanc neige",
-    "Text_tips5": "Arctic Survival",
-    "Text_tips6": "best  nature capturs ",
-    "Text_tips7": "Eskimo history",
-    "Text_tips8": "Welcome fascinating wildlife eskimo",
+    "Text_tips1": "OPINIAO CERTA FUNCIONA? OPINIÃO CERTA VALE A PENA?",
+    "Text_tips2": " O QUE É O OPINIAO CERTA? COMO FUNCIONA O OPINIÃO CERTA?",
+    "Text_tips3": "Opiniao Certa Funciona?",
+    "Text_tips4": "Opiniao Certa é Confiável?",
+    "Text_tips5": " Opiniao Certa é Seguro?",
+    "Text_tips6": "Fala Galera Tranquilo tudo bem com vocês? ",
+    "Text_tips7": "QUAL O SITE OFICIAL DO OPINIAO CERTA?",
+    "Text_tips8": " OPINIAO CERTA PAGA MESMO?",
 
 
-    "Text_title1": "Discover the fascinating wildlife of the Eskimo region with stunning imagery and detailed information",
-    "Text_title2": "Learn essential skills and tips for surviving in the challenging Arctic environment",
-    "Text_title3": "Welcome fascinating wildlife eskimo",
-    "Text_title4": "eskimo has a huge history ",
-    "Text_title5": "rack and predict mesmerizing Northern Lights displays",
-    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
-    "Text_title7": "how kind is eskimo people?",
-    "Text_title8": "Eskimo in history and place",
+    "Text_title1": "Opinião Certa is a user-friendly Google Play application that allows users to share their opinions through surveys ",
+    "Text_title2": "With a seamless interface and personalized recommendations, it offers a smooth and engaging experience",
+    "Text_title3": "Privacy and security are prioritized, ensuring that user data remains confidential and anonymized",
+    "Text_title4": "Fala Galera Tranquilo tudo bem com vocês? nesse vidoe eu vou falar como funciona o opiniao certa e  se vale a pena ou não, sie que muitas pessoas tme dúvidas então resolvi garvar um vidoe para explciar como tudo funciona e como você vai conseugir ganhar uma otima renda extra",
+    "Text_title5": "sim, o metodo funciona e com ele você via conseguir ganhar dinheiro no conforto de casa pena sdnado sua opiniao tudo que você precisa fazer e seugir o método por completo apra ter resultado no conforto de casa.",
+    "Text_title6": " sim com toda certeza se você adquirir pelo site oficial e seugir o método por completo você via ter cada vez mais resultado você só precisa seugir por completo para ter resultado eu memso to adorando o app opiniao certa.",
+    "Text_title7": "Opiniao Certa é Seguro?  ",
+    "Text_title8": " sim o método e seguro e você via conseguir ganha cada vez mais mais você só precisa seugir o método por completo para ter cada vez mais resultado você via lucrar cada vez mais com o opiniao certa.",
 
 
     "Text_buttonCoins" : "Male ",
     "Text_buttonTips" : "Women",
-    "Text_buttonmoins" : "- 18",
-    "Text_buttonplus" : "+ 18",
+    "Text_buttonmoins" : "-17",
+    "Text_buttonplus" : "+ 17",
 
 
     "CpaAds" : "True",
